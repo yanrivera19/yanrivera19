@@ -1,4 +1,4 @@
-<h1 align="center">Yan Rivera 🌊🏖️🌴</h1>
+<h1 align="center">🌊🌴 Yan Rivera 🌴🌊</h1>
 <h3 align="center">A full-stack software engineer, born and raised in Puerto Rico!</h3>
 
 <h3 align="left">Connect with me:</h3>
