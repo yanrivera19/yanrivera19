@@ -1,5 +1,10 @@
 <h1 align="center">🌊🌴 Yan Rivera 🌴🌊</h1>
-<br>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ycrivera/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+ <br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" width="180"/>
 </div>
@@ -15,10 +20,10 @@
 
 <p>My desire to keep learning and growing as a developer doesn’t cease and I know that it will only increase with time. My diverse background, the drive, the passion, and the enthusiasm I feel for learning and improving my engineering skills give me confidence in my ability to reach my full potential as a software engineer and to build great software.</p>
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 
   
-<a href="https://linkedin.com/in/ycrivera" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ycrivera" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ycrivera" rel="noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ycrivera" height="30" width="40" /></a> -->
 
 
 
