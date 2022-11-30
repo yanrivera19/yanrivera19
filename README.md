@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" width="180"/>
+</div>
+
 # <h1 align="center">🌊🌴 Yan Rivera 🌴🌊</h1>
 **`A full-stack software engineer, born and raised in Puerto Rico!`**
 <hr>
