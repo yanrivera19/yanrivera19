@@ -1,9 +1,15 @@
+# <h1 align="center">🌊🌴 Yan Rivera 🌴🌊</h1>
+<br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" width="180"/>
 </div>
-
-# <h1 align="center">🌊🌴 Yan Rivera 🌴🌊</h1>
+<br>
+<div  align="center"> 
+  
 **`A full-stack software engineer, born and raised in Puerto Rico!`**
+  
+</div>
+
 <hr>
 <p>I love challenges. I love going beyond the limits that I unconsciously set for myself out of fear, weakness, and ignorance, and realizing that if I really want something, when there is a will, there is a way. Having a professional background in Real Estate, and also having been able to spend the year of 2021 living in a Monastery in California because of my deep interest in meditation and spiritual philosophy, I bring to the table my ability to build meaningful and respectful relationships with others, my ability to keep great attention to detail, and to focus and concentrate deeply on my tasks at hand.</p>
 
