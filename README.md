@@ -1,7 +1,7 @@
 <h1 align="center">🌊🌴 Yan Rivera 🌴🌊</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/ZvLUtG6BZkBi0/giphy.gif" width="200"/>
 </div>
 <br>
 <div  align="center"> 
@@ -13,6 +13,9 @@
   <a href="https://www.linkedin.com/in/ycrivera/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://yanrivera19.github.io/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Gmail Badge"/>
+  </a>  
 </div>
 
 ### :man_technologist: About Me :
